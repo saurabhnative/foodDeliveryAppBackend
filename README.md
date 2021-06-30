@@ -14,6 +14,7 @@ Backend APIs of food delivery application built using Node.js and HarperDB
  -  /delivery/getAllItems :- Route for getting information related to food items
  -  /delivery/add :- Route for inserting order into database
  -  /delivery/getAllOrders:- Route for listing all orders from database
+ -  /delivery/delete:- Route for deleting order from database
 
 ## App Screenshots:-
 <p>
