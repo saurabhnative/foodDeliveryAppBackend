@@ -2,7 +2,7 @@ const express = require("express");
 const router = express.Router();
 const db = require("../config/dbconfig");
 
-/* Test tweets route */
+/* Test delivery route */
 router.get("/", function (req, res, next) {
   res.send("delivery route accessed");
 });
