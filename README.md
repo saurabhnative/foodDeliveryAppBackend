@@ -1,4 +1,4 @@
-# Bakend part of Food Delivery application
+# Backend part of Food Delivery application
 Backend APIs of food delivery application built using Node.js and HarperDB
 
 ## Tech stack:
